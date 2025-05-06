@@ -1,7 +1,7 @@
 # Solidity Foundry  prompt file
 
 Author: heyjonbray
-Modified from [solidity-hardhat-cursorrules](/rules/solidity-hardhat-cursorrules-prompt-file/) by brolag
+Modified from [solidity-hardhat-copilotrules](/rules/solidity-hardhat-copilotrules-prompt-file/) by brolag
 
 ## What you can build
 

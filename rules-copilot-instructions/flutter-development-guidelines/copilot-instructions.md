@@ -1,4 +1,4 @@
-# Extracted from flutter-development-guidelines-cursorrules-prompt-file
+# Extracted from flutter-development-guidelines-copilotrules-prompt-file
 
 ### Code style and structure
 - Write concise and efficient source code.
