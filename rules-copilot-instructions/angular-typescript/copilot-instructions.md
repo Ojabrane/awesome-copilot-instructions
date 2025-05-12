@@ -11,7 +11,6 @@
 - Prefer using the forNext function from libs/smart-ngrx/src/common/for-next.function.ts over for/forEach/for-of.
 - Obey .eslintrc.json, .prettierrc, .htmlhintrc, and .editorconfig rules.
 - Functions/methods: max 4 parameters, max 50 executable lines.
-- Lines: max 80 characters.
 - When refactoring, keep jsdoc comments intact.
 - Be concise and minimize extraneous prose.
 - If you don't know the answer, say so instead of guessing.
